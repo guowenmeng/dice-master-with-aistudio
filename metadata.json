@@ -1,0 +1,5 @@
+{
+  "name": "Dice Master",
+  "description": "A clean, responsive dice rolling application. Adjust the number of dice, roll them with a satisfying animation, and instantly see the total sum.",
+  "requestFramePermissions": []
+}
